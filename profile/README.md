@@ -34,11 +34,11 @@ O Feels Group depende do apoio da comunidade para cumprir sua missão. Existem v
 
 ## Entre em Contato
 
-Estamos aqui para ajudar. Entre em contato conosco através do nosso site [www.feelsapp.org](https://www.feelsapp.org) ou envie um e-mail para info@feelsgroup.org.
+Estamos aqui para ajudar. Entre em contato conosco através do nosso site [www.feelsapp.org](https://www.feelsapp.org) ou envie um e-mail para equipe@feelsapp.org.
 
 Siga-nos nas redes sociais:
-- Facebook: [facebook.com/FeelsGroup](https://www.facebook.com/FeelsApplication)
-- Instagram: [instagram.com/feelsgroup](https://www.instagram.com/feels.application/)
-- Twitter: [twitter.com/FeelsGroup](https://twitter.com/FeelsApplication)
+- Facebook: [facebook.com/FeelsApplication](https://www.facebook.com/FeelsApplication)
+- Instagram: [instagram.com/feels.application](https://www.instagram.com/feels.application/)
+- Twitter: [twitter.com/FeelsApplication](https://twitter.com/FeelsApplication)
 
 Juntos, podemos construir um ambiente mais forte e apoiar uns aos outros no caminho da saúde mental positiva. Obrigado por se juntar ao Feels Group!
