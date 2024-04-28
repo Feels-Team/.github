@@ -1,10 +1,10 @@
-# Feels Group
+# Feels Team
 
-Bem-vindo ao Feels Group!
+Bem-vindo ao Feels Team!
 
 ## Sobre nós
 
-O Feels Group é uma organização sem fins lucrativos dedicada ao apoio e promoção da saúde mental. Nosso objetivo é criar um ambiente inclusivo e solidário, oferecendo recursos e serviços que ajudem as pessoas a cuidar de sua saúde mental e emocional.
+O Feels Team é uma organização sem fins lucrativos dedicada ao apoio e promoção da saúde mental. Nosso objetivo é criar um ambiente inclusivo e solidário, oferecendo recursos e serviços que ajudem as pessoas a cuidar de sua saúde mental e emocional.
 
 ## Missão
 
@@ -26,7 +26,7 @@ Colaboramos com profissionais de saúde mental, instituições educacionais e ou
 
 ## Como Contribuir
 
-O Feels Group depende do apoio da comunidade para cumprir sua missão. Existem várias maneiras de contribuir:
+O Feels Team depende do apoio da comunidade para cumprir sua missão. Existem várias maneiras de contribuir:
 
 - **Doações**: Suas contribuições financeiras nos ajudam a manter nossos serviços acessíveis a todos.
 - **Voluntariado**: Junte-se a nós como voluntário e faça a diferença na vida de outras pessoas.
@@ -41,4 +41,4 @@ Siga-nos nas redes sociais:
 - Instagram: [instagram.com/feels.application](https://www.instagram.com/feels.application/)
 - Twitter: [twitter.com/FeelsApplication](https://twitter.com/FeelsApplication)
 
-Juntos, podemos construir um ambiente mais forte e apoiar uns aos outros no caminho da saúde mental positiva. Obrigado por se juntar ao Feels Group!
+Juntos, podemos construir um ambiente mais forte e apoiar uns aos outros no caminho da saúde mental positiva. Obrigado por se juntar ao Feels Team!
